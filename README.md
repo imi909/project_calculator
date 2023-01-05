@@ -1,6 +1,6 @@
 # Project Calculator
 
-Final assignment for private class basic programming.
+Program basic Calculator for final assignment after the learning and basic programming HTML, JavaScript, and CSS.
 
 
 
